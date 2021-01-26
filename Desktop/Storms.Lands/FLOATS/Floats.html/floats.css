@@ -1,26 +1,28 @@
 body {
     background-color: #C0C0C0;
+
 }
 
 a{
-    padding: auto;
-    padding-top: 0%;
     padding-right: 20px;
     font-size:larger; 
     font-weight: lighter;
-    float: right;
+
 }
 
+
+
 .nav {
+    display: flex;
     color: black;
     font-family: 'Bebas Neue', cursive;
     position: fixed;
     width: 100%;
-    padding: 
+    justify-content: space-between;
 }
 
 .forreal {
-    float: left;
+    align-content: flex-start;
 }
 
 .bulletpoint {
@@ -29,23 +31,26 @@ a{
 
 .card {
     padding: 50px;
-    background-color:white;
+    background-color:pink;
     margin-right: 10px;
-    margin-top: 233px;
-    float: right;
+   flex-direction: row;
     text-align: center;
     width: 200px;
     border: 5px solid black;
-
   }
   
 
 #areacontainer {
-    float: right;
-    display: inline-block;
+    
+    display: flex;
+    justify-content: right;
     margin: 10px auto auto 50px;
     width: 1855px;
     padding: 88px;
     padding-right: 45px;
 }
+
+
+
+
 
