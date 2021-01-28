@@ -1,0 +1,128 @@
+body {
+    background-color: black;
+
+}
+
+.header {
+
+    background-image: url(images/green-vegetables-on-brown-wooden-chopping-board.jpg);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+}
+
+
+.text {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.page {
+    display: flex;
+    
+}
+
+.portion {
+    display: flex;
+
+}
+
+
+
+
+.bread {
+    height: 40vh;
+    width: 40%;
+    background-size: cover;
+    background-position: center;
+    justify-content: left;
+    padding: 10px;
+}
+
+.pasta {
+    display: flex;
+    height: 40vh;
+    width: 40%;
+    background-size: cover;
+    background-position: center;
+    justify-content: left;
+
+}
+
+.section {
+    display: flex;
+
+}
+
+.bb {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.pineapple {
+    height: 40vh;
+    width: 40%;
+    background-size: cover;
+    background-position: center;
+
+    padding: 10px;
+}
+
+.lepht {
+    display: flex;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: lighter;
+    font-size: 21px;
+    padding-left: 50px;
+}
+
+.rite {
+    color: #C0C0C0;
+    float: right;
+    font-family: 'Poppins', sans-serif;
+    justify-content: space-around;
+    padding-right: 50px;
+
+}
+
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-weight: lighter;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 200px;
+}
+
+h2 {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    padding-left: 150px;
+}
+
+
+
+.line {
+    height: 1px;
+    background-color: white;
+    width: 400px;
+    margin: 0 auto;
+  
+}
+
+
+
+.description {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-weight: lighter;
+    font-size: 20px;
+}
+
