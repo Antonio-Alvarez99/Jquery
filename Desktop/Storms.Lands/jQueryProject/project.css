@@ -1,0 +1,71 @@
+.darkMode {
+    background-color:black;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+  }
+
+  #clickMe:hover {
+    cursor: pointer;
+  }
+
+  #clickMe {
+    background-color: rgba(187, 187, 187, 0.226);
+    display: inline-block;
+    padding:10px;
+    font-family: Helvetica;
+    border-radius: 3px;
+    font-weight: bold;
+    font-family: 'Raleway', Helvetica;
+  }
+
+.inStock {
+
+background-color: rgb(231, 231, 231);
+font-family: 'Raleway', sans-serif;
+font-weight: bold;
+padding: 15px;
+display: flex;
+justify-content: center;
+justify-content: space-between;
+margin: 15px;
+
+}
+
+
+
+ 
+.darkMode .inStock {
+
+    background-color:rgb(31, 31, 31);
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    margin: 15px;
+    
+    
+}
+
+
+h1 {
+
+    font-family: 'Raleway', Helvetica;
+    font-weight: bold;
+
+}
+
+p {
+
+    padding:10px;
+    font-family: 'Raleway', Helvetica;
+    border-radius: 3px;
+    width: 33pc;
+
+}
+
+
+
+

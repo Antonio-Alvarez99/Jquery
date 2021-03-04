@@ -1,0 +1,43 @@
+body {
+
+    background-color: #A9A9A9;
+
+}
+
+.grid {
+
+    background: #000;
+    float: left;
+    height: 10vw;
+    margin: 1%;
+    width: 160px;
+    padding-top: 15px;
+    
+
+}
+
+#bocksContainer {
+display: flex;
+flex-wrap: wrap;
+margin: auto;
+width: 700px;
+justify-content: center;
+padding-top: 50px;
+
+}
+
+
+
+div:hover {
+    cursor: pointer;
+  }
+
+
+
+  .darkMode {
+    background-color:white;
+  }
+
+
+
+
